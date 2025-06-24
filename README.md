@@ -16,7 +16,7 @@ Dependencies:
 - matplotlib
 
 - `V7992_Sgr_LightCurve-compute-t2-t3.ipynb`: Plots the full light curve and computes t2/t3 values.
-- `V7992_Sgr_V_Filter_LightCurve.ipynb`: Filters the light curve data using only the V filter for higher accuracy in brightness analysis.
+- `V7992_Sgr_V_Filter_LightCurve.ipynb`: Filters the light curve data using only the V filter for higher accuracy in brightness analysis and also compute t2/t3 values.
 
 ## How to Use
 Open any `.ipynb` file in Jupyter Notebook or JupyterLab. Ensure the `V7992_Sgr.txt` file is in the same directory.
